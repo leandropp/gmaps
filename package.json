@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "author": "Leandro Pereira da Paixao",
-  "private": false,
+  "private": true,
   "license": "UNLICENSED",
   "scripts": {
     "dev": "next dev",
