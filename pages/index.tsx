@@ -1,5 +1,11 @@
+import BasicLayout from '../layout/globalStyles';
+
 function HomePage() {
-  return <div>Welcome to Next.js!</div>
+  return (
+    <BasicLayout>
+      <div>Welcome to Next.js!</div>
+    </BasicLayout>
+  );
 }
 
-export default HomePage
+export default HomePage;
