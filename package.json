@@ -1,0 +1,24 @@
+{
+  "author": "Leandro Pereira da Paixao",
+  "email": "leandropp.ti@gmail.com",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^12.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "@types/react": "^17.0.34",
+    "@types/typescript": "^2.0.0",
+    "babel-plugin-styled-components": "^1.13.3",
+    "typescript": "^4.4.4"
+  }
+}
